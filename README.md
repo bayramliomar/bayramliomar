@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Omar. I am a Full Stack Developer. Let's develop projects that are compatible with the latest technologies together.
+### Hi there 👋 My name is Omar. I am a Full Stack Developer. Let's develop projects that are compatible with the latest technologies together :boom: :computer:
 
 <!--
 **bayramliomar/bayramliomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
